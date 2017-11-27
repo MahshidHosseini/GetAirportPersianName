@@ -14,3 +14,6 @@ E:\PersianNameOfAirports\GetPersianNameOfAirports\GetPersianNameOfAirports\obj\D
 E:\PersianNameOfAirports\GetPersianNameOfAirports\GetPersianNameOfAirports\obj\Debug\GetPersianNameOfAirports.csproj.GenerateResource.Cache
 E:\PersianNameOfAirports\GetPersianNameOfAirports\GetPersianNameOfAirports\obj\Debug\GetPersianNameOfAirports.exe
 E:\PersianNameOfAirports\GetPersianNameOfAirports\GetPersianNameOfAirports\obj\Debug\GetPersianNameOfAirports.pdb
+F:\Itours\GetAirportPersianName\GetPersianNameOfAirports\GetPersianNameOfAirports\bin\Debug\GetPersianNameOfAirports.exe.config
+F:\Itours\GetAirportPersianName\GetPersianNameOfAirports\GetPersianNameOfAirports\obj\Debug\GetPersianNameOfAirports.exe
+F:\Itours\GetAirportPersianName\GetPersianNameOfAirports\GetPersianNameOfAirports\obj\Debug\GetPersianNameOfAirports.pdb
